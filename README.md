@@ -1,6 +1,4 @@
 ### Hey there, I'm Ramon! 👋
-[![Github](https://img.shields.io/github/followers/RamonWill?label=Follow&style=social)](https://github.com/RamonWill)
-
 <a href="https://www.youtube.com/c/RamonWilliams">
   <img  align="left" alt="Ramon Williams | YouTube" width="30px" src="https://raw.githubusercontent.com/RamonWill/RamonWill/master/assets/icons8-youtube-48.png" />
 </a>
@@ -34,6 +32,7 @@ Hey, I'm Ramon Williams, a passionate self-taught developer from London.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+[![Github](https://img.shields.io/github/followers/RamonWill?label=Follow&style=social)](https://github.com/RamonWill)
 
 <!--
 **RamonWill/RamonWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
