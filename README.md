@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=chartreuse-dark)](https://github.com/RamonWill)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce)](https://github.com/RamonWill/PortfolioAce)
