@@ -1,7 +1,9 @@
 ### Hey there, I'm Ramon! 👋
 
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
+Hey, I'm Ramon Williams, a passionate self-taught developer from London.
+
+- 🔭 I’m currently working on [PortfolioAce](https://github.com/RamonWill/PortfolioAce)
+- 💬 Feel free to reach out to me on the above platforms or [here](https://github.com/RamonWill/RamonWill/issues)
 
 
 [![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=chartreuse-dark)](https://github.com/RamonWill)
