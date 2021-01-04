@@ -1,4 +1,13 @@
 ### Hey there, I'm Ramon! 👋
+<a href="https://www.youtube.com/c/RamonWilliams">
+  <img  align="left" alt="Ramon Williams | YouTube" width="30px" src="https://raw.githubusercontent.com/RamonWill/RamonWill/master/assets/icons8-youtube-48.png" />
+</a>
+<a href="https://www.linkedin.com/in/ramon-w-6b951a5a">
+  <img align="left" alt="Ramon Williams | Linkedin" width="30px" src="https://raw.githubusercontent.com/RamonWill/RamonWill/master/assets/icons8-linkedin-48.png" />
+</a>
+
+<br />
+<br />
 
 Hey, I'm Ramon Williams, a passionate self-taught developer from London.
 
