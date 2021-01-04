@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hey there, I'm Ramon! 👋
+
+- 🔭 I’m currently working on ...
+- 💬 Ask me about ...
+
+
+[![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=chartreuse-dark)](https://github.com/RamonWill)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonWill&layout=compact&theme=chartreuse-dark)](https://github.com/RamonWill)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce&theme=dark)](https://github.com/RamonWill/PortfolioAce)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 <!--
 **RamonWill/RamonWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=chartreuse-dark)](https://github.com/RamonWill)
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce&theme=dark)](https://github.com/RamonWill/PortfolioAce)
