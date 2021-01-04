@@ -14,18 +14,23 @@ Hey, I'm Ramon Williams, a passionate self-taught developer from London.
 - 🔭 I’m currently working on [PortfolioAce](https://github.com/RamonWill/PortfolioAce)
 - 💬 Feel free to reach out to me on the above platforms or [here](https://github.com/RamonWill/RamonWill/issues)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce&theme=dark)](https://github.com/RamonWill/PortfolioAce)
+
+
+**📈 My Github Stats:**  
 
 [![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=chartreuse-dark)](https://github.com/RamonWill)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonWill&layout=compact&theme=chartreuse-dark)](https://github.com/RamonWill)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce&theme=dark)](https://github.com/RamonWill/PortfolioAce)
-
-
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <!--
