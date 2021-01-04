@@ -1,4 +1,6 @@
 ### Hey there, I'm Ramon! 👋
+[![Github](https://img.shields.io/github/followers/RamonWill?label=Follow&style=social)](https://github.com/RamonWill)
+
 <a href="https://www.youtube.com/c/RamonWilliams">
   <img  align="left" alt="Ramon Williams | YouTube" width="30px" src="https://raw.githubusercontent.com/RamonWill/RamonWill/master/assets/icons8-youtube-48.png" />
 </a>
