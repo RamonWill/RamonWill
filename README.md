@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![RamonWill's github stats](https://github-readme-stats.vercel.app/api?username=RamonWill&theme=chartreuse-dark)](https://github.com/RamonWill)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce)](https://github.com/RamonWill/PortfolioAce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce&theme=dark)](https://github.com/RamonWill/PortfolioAce)
