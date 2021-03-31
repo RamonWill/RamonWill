@@ -33,7 +33,7 @@ Hey, I'm Ramon Williams, a passionate self-taught developer from London.
 
 
 [![Github](https://img.shields.io/github/followers/RamonWill?label=Follow&style=social)](https://github.com/RamonWill)
-
+![](https://visitor-badge.glitch.me/badge?page_id=RamonWill.RamonWill&style=flat-square&color=0088cc)
 <!--
 **RamonWill/RamonWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
