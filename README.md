@@ -9,9 +9,7 @@
 <br />
 <br />
 
-Hey, I'm Ramon
-
-- 💬 Feel free to reach out to me on the above platforms or [here](https://github.com/RamonWill/RamonWill/issues)
+- 💬 Feel free to reach out to me on the above platforms
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RamonWill&repo=PortfolioAce&theme=dark)](https://github.com/RamonWill/PortfolioAce)
 
